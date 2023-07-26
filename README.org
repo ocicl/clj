@@ -1,0 +1,10 @@
+* clj
+
+Basic Clojure affordances for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/inaimathi/clj.git   |
+| commit  | eb70586  |
+| systems | clj |
+|---------+-------------------------------------------|
+
